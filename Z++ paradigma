@@ -1,0 +1,11 @@
+CLASS ClassName
+  [OWNS List_of_attributes]
+  [FUNCTIONS constant_definitions]
+  [TYPE type_declaration]
+  [ENTENDS list_of_super_classes]
+  [OPERATIONS list_of_state_change_operations_definitions]
+  [RETURNS list_of_query_operations_definitions]
+  [ACTIONS all_operations_declarations]
+  [INVARIANT predicates]
+  [HISTORY RTL_predicates]
+END CLASS
